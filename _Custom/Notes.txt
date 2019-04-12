@@ -13,7 +13,7 @@ Game Design Discussion Helper Game:
 
   Goal: Make a game which can demonstrate and provoke discussion of the important topics of player feedback ('juicy' feedback) and providing them info, balance and difficulty, and guiding the player.
 
-Teach these kids some lessons.
+Teach these kids some lessons because they really need the help.
 
   Format: A simple example adventure/rpg game where the player needs to find something, fight some enemies, jump over platforms, and beat a boss.
 

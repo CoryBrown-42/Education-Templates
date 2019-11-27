@@ -40,7 +40,7 @@ body{
 	position:relative;
 	overflow:hidden;
 	font-family: Lora, serif;
-	background:#F0F0F0 !important;
+	background:#313131 !important;
 }
 *{
 	font-family: inherit;
@@ -55,19 +55,19 @@ h1, h2, h3, h4, h5, h6{
 	font-family: 'Roboto Mono', sans-serif;
 }
 .color{
-	color:#303F9F;
+	color:#4c51f7;
 }
 ::-webkit-scrollbar{
-	background:#F0F0F0;
+	background:#313131;
 	height:10px;
 	width:10px;
 }
 ::-webkit-scrollbar-thumb{
-	background:#D0D0D0;
-	border:solid 2px #F0F0F0;
+	background:#313131;
+	border:solid 2px #f3af19;
 }
 ::-webkit-scrollbar-thumb:hover{
-	background:#4cbb17;
+	background:#f3af19;
 }
 img{
 	max-width:100%;
@@ -78,7 +78,7 @@ img{
 	Menu
 =======================================================*/
 body.border-dark .menu-btn > .lines > span{
-	background:#4cbb17;
+	background:#313131;
 }
 .menu-btn > .lines > .l2{
 	margin:6px 0;
@@ -86,7 +86,7 @@ body.border-dark .menu-btn > .lines > span{
 .menu{
 	position:absolute;
 	z-index:399;
-	background:rgba(0,0,0,.9);
+	background:rgba(49,49,49,.9);
 	top:0;
 	right:0;
 	height:100%;
@@ -150,7 +150,7 @@ body.border-dark .menu-btn > .lines > span{
 	transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 }
 body.border-dark .main-content > .page-border{
-	border-color:#4cbb17;
+	border-color:#313131;
 }
 .main-content > .border-top,
 .main-content > .border-bottom{
@@ -227,7 +227,7 @@ body.section-switching .main-content:after{
 }
 body.border-dark .main-content:before,
 body.border-dark .main-content:after{
-	border-color:#4cbb17;
+	border-color:#313131;
 }
 .sections{
 	height:100%;
@@ -249,7 +249,7 @@ body.border-dark .main-content:after{
 	left:0;
 	height:100%;
 	width:100%;
-	background:#4cbb17;
+	background:#313131;
 	opacity:.8;
 	z-index:-1;
 }
@@ -339,13 +339,13 @@ a.btn-custom{
 	visibility:visible;
 }
 .btn-custom.btn-color:after{
-	background:#4cbb17;
+	background:#313131;
 }
 .btn-custom.btn-color:hover:after{
 	opacity:.4;
 }
 .btn-custom.btn-color{
-	color:#4cbb17;
+	color:#313131;
 }
 .btn-custom.btn-color > span:before,
 .btn-custom.btn-color > span:after{

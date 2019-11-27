@@ -1,12 +1,22 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{390B1948-41D6-B643-2AA8-5785853DD383}",
+	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"Mac"
+			]
 		}
 	]
 }

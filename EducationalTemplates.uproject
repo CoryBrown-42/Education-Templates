@@ -1,18 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "{20136525-4363-FD1E-1399-77ADCA1D3EF6}",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "EducationalTemplates",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ApexDestruction",
